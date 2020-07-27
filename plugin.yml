@@ -1,0 +1,13 @@
+name: Size
+api: 3.0.0
+version: 1
+author: WoolChannel3295
+main: Size\Loader
+commands:
+  size:
+    description: 'Thay đổi kích thức nhân vật của bạn | Change Size' 
+    usage: /size [int]
+permissions:
+  size.command:
+    description: 'Permission Size.command'
+    default: op
